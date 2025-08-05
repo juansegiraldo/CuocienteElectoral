@@ -1,0 +1,10 @@
+# No se requieren dependencias externas para este proyecto
+# El script utiliza solo la biblioteca estándar de Python
+
+# Python 3.7 o superior es requerido
+# Para desarrollo opcional:
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0 
+
+streamlit>=1.28.0 
